@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
+    <title>REACT js</title>
+    <style>
+      
+        .icon{
+            height: 50px;
+        }
+        .content{
+            font-size: 17px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="main">
+        <div class="container-fluid bg-light">
+            <nav class="navbar navbar-expand-md bg-light p-1">
+                <div class="container-fluid">
+                    <a class="navbar-brand fw-bold fs-2" href="/index.html">Chikhi-Ghorafi</a>
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                        data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+
+                    <div class="collapse navbar-collapse " id="navbarSupportedContent">
+                        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                            <li class="nav-item">
+                                <a class="nav-link active fs-5" aria-current="page" href="/index.html">Home</a>
+                            </li>
+
+                            <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle text-black fs-5" href="/index.html" role="button"
+                                    data-bs-toggle="dropdown" aria-expanded="false">
+                                    Français
+                                </a>
+                                <ul class="dropdown-menu">
+                                    <li><a class="dropdown-item" href="spring-boot.html">Spring boot</a></li>
+                                    <li><a class="dropdown-item" href="react-js.html">React-js</a></li>
+                                    <li><a class="dropdown-item" href="node-js.html">Node-js</a></li>
+                                    <li><a class="dropdown-item" href="vue-js.html">Vue-js</a></li>
+                                    <li><a class="dropdown-item" href="javascript.html">javascript</a></li>
+                                </ul>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle text-black fs-5" href="#" role="button"
+                                    data-bs-toggle="dropdown" aria-expanded="false">
+                                    Arabe
+                                </a>
+                                <ul class="dropdown-menu">
+                                    <li><a class="dropdown-item" href="../arabe_pages/arai-kadab.html">قصة الراعي الكذاب</a></li>
+                                    <li><a class="dropdown-item" href="../arabe_pages/rihla-rif.html">قصة رحلة في الريف</a></li>
+                                    <li><a class="dropdown-item" href="../arabe_pages/rajol-gharib.html">قصة الرجل الغريب</a></li>
+                                    <li><a class="dropdown-item" href="../arabe_pages/sanjob.html">قصة السنجاب المخادع سنجوب</a></li>
+                                    <li><a class="dropdown-item" href="../arabe_pages/katkot.html">قصة الكتكوت المتكبر</a></li>
+                                </ul>
+                            </li>
+
+                        </ul>
+
+                    </div>
+                </div>
+            </nav>
+        </div>
+        <div class="container-fluid bg-light p-1">
+            <hr>
+            <div>
+                <h1 class="text-center ">React js <img src="../assets/react.png" alt="spring boot" class="icon"></h1>
+            </div>
+            <div class="content text-center">
+                <p>
+                    ReactJS est une bibliothèque JavaScript open-source utilisée pour la construction d'interfaces utilisateur. Développée et maintenue par Facebook, ReactJS est l'un des frameworks de développement front-end les plus populaires utilisés par les développeurs dans le monde entier.
+                </p>
+                <p>
+                    React permet aux développeurs de construire des composants d'interface utilisateur réutilisables et aide à gérer efficacement l'état d'une application. Il suit le paradigme déclaratif, où les développeurs peuvent définir à quoi ils veulent que l'interface ressemble, et React gère le rendu de l'interface utilisateur en fonction de l'état actuel de l'application.
+                </p>
+                <p>
+                    React utilise un Virtual DOM (Document Object Model) pour gérer l'état de l'interface utilisateur, qui est une représentation en mémoire du DOM réel. Lorsque l'état de l'application change, React met à jour le Virtual DOM et calcule le nombre minimum de modifications nécessaires pour mettre à jour le DOM réel, ce qui améliore les performances de l'application.
+                </p>
+                <p>
+                    React est souvent utilisé en combinaison avec d'autres outils tels que Redux, React Router et Axios pour construire des applications Web complexes et évolutives. Il est également utilisé pour la cconstruction d'applications mobiles en utilisant React Native, qui permet aux développeurs d'utiliser React pour construire des applications natives iOS et Android. 
+                </p>
+            </div>
+        </div>
+        <div class="container-fluid bg-light text-center p-1">
+            <hr/>
+            <h4>Made with <img class="icon" src="../assets/heart.png" alt="heart love symbol"> by Chikhi and ghorafi</h4>
+            <h4>M2I-FSO &copy;2022-2023</h4>
+        </div>
+    </div>
+
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4"
+        crossorigin="anonymous"></script>
+</body>
+
+</html>
