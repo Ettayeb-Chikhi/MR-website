@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://chikhi-ghorafi.netlify.app/</loc>
+  <lastmod>2023-03-19T17:19:38+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://chikhi-ghorafi.netlify.app/index.html</loc>
+  <lastmod>2023-03-19T17:19:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://chikhi-ghorafi.netlify.app/french_pages/spring-boot.html</loc>
+  <lastmod>2023-03-19T17:19:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://chikhi-ghorafi.netlify.app/french_pages/react-js.html</loc>
+  <lastmod>2023-03-19T17:19:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://chikhi-ghorafi.netlify.app/french_pages/node-js.html</loc>
+  <lastmod>2023-03-19T17:19:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://chikhi-ghorafi.netlify.app/french_pages/vue-js.html</loc>
+  <lastmod>2023-03-19T17:19:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://chikhi-ghorafi.netlify.app/french_pages/javascript.html</loc>
+  <lastmod>2023-03-19T17:19:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://chikhi-ghorafi.netlify.app/arabe_pages/arai-kadab.html</loc>
+  <lastmod>2023-03-19T17:19:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://chikhi-ghorafi.netlify.app/arabe_pages/rihla-rif.html</loc>
+  <lastmod>2023-03-19T17:19:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://chikhi-ghorafi.netlify.app/arabe_pages/rajol-gharib.html</loc>
+  <lastmod>2023-03-19T17:19:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://chikhi-ghorafi.netlify.app/arabe_pages/sanjob.html</loc>
+  <lastmod>2023-03-19T17:19:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://chikhi-ghorafi.netlify.app/arabe_pages/katkot.html</loc>
+  <lastmod>2023-03-19T17:19:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
