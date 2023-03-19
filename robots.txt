@@ -1,2 +1,2 @@
 User-agent:*
-Disallow : 
+Disallow : /french_pages/spring-boot.html
